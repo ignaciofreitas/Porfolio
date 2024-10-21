@@ -612,6 +612,7 @@ footer {
         color: #e930ab;
         background-color: rgb(25, 10, 78);
         width: 20%;
+        padding-left: 2%;
     }
 
     .dropdown-toggle {
@@ -695,11 +696,11 @@ footer {
     .navbar {
         position: absolute;
     }
-
     .nav-item a {
         color: #e930ab;
         background-color: rgb(25, 10, 78);
         width: 40%;
+        padding-left: 2%;
     }
 
     /*=====================*/
